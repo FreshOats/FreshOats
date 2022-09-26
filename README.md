@@ -7,5 +7,5 @@
 
 email: justin.papreck@gmail.com
 
-Fun fact since the last time I updated this: <br>
+**Fun fact since the last time I updated this:** <br>
 The [Wind Scorpion](https://www.inaturalist.org/taxa/82055-Eremobates) (genus *Eremobates*), has the largest jaw size to body ratio of any animal.
