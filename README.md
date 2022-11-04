@@ -11,6 +11,14 @@ email: justin.papreck@gmail.com
 
 
 #### Pinned Repos:
+- NFL Injury Analytics
+  - This application utilizes supervised and unsupervised machine learning, deep learning, and feature analysis to find patterns in NFL injuries
+  - Random Forests provided a high-accuracy, high precision model on a very imbalanced dataset, whereas Neural Networks produced a high-accuracy, high-recall model 
+  - Additional analytics demonstrated different correlations with injuries associated to lower-body injuries and concussions
+
+  ![Linebacker_Knee_Thumbnail](https://user-images.githubusercontent.com/33167541/200050420-6e6fe5cf-9486-498f-9d3f-3a5738dd1569.png)
+
+
 - Credit_Risk_Analysis: Credit Risk Analysis with Supervised Machine Learning
   - This application utilizes Ensemble Learning and Logistic Regression to predict credit risk. 
   - Easy Ensemble AdaBoost outperformed the other models, including Random Forest, oversampling, and undersampling, yielding 93% accuracy
@@ -42,12 +50,7 @@ email: justin.papreck@gmail.com
   
   ![Mapping_thumbnail](https://user-images.githubusercontent.com/33167541/194174560-30176704-6589-477f-b527-e076d931d942.png)
 
-  
-- Bikesharing: CitiBike as an Alternative Means of Transportation in Des Moines
-  - Analysis of bikesharing in New York City, New York as a model for a potential bikesharing program in Des Moines, Iowa
-  - Data processing in Python and visualization in Tableau revealed that most users are commuters, not tourists, which makes this a considerable venture
- 
-  ![bikeshare_thumbnail](https://user-images.githubusercontent.com/33167541/194174581-25e13b6b-edfd-45b0-8d4f-5d4b048dda3c.png)
+ <br><br><br>
 
 
 
