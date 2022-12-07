@@ -1,7 +1,7 @@
 ## About Me
 
 - Currently working on machine learning and neural network applications in data science
-- Strengths in R and Python programming for data analytics and visualization
+- Strengths in R and Python programming, and SQL queries for data analytics and visualization
 - Refining skills in HTML/CSS for analytical web applications 
 - Enjoy statistics and documentation; no one knows why
 
