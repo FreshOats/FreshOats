@@ -17,7 +17,7 @@ email: justin.papreck@gmail.com
   - It takes into consideration different measurement units, chemical naming conventions, and regulation differences between governmental sources
   - Presents the data regarding high contamination using Tableau to present maps and graphs, while filtering for the past 5 and 75 years
 
-![water_quality1](https://github.com/FreshOats/FreshOats/assets/33167541/1cf8af9a-09ca-4ed2-9117-680f7022443a)
+  ![water_quality1](https://github.com/FreshOats/FreshOats/assets/33167541/a73cf04f-ac4d-48d3-919d-1f11423f66b1)
 
 
 - NFL Injury Analytics
