@@ -1,9 +1,9 @@
 ## About Me
-
-- Currently working on machine learning and neural network applications in data science
-- Strengths in R and Python programming, and SQL queries for data analytics and visualization
+- Currently working on data analytics with SQL, Python, Tableau, and Power BI
+- Experience working with machine learning and neural network applications in data science
+- Strengths in Python and R programming, and SQL using Postgres and SQL Server for data analytics and visualization
 - Refining skills in HTML/CSS for analytical web applications 
-- Enjoy statistics and documentation; no one knows why
+- Enjoy statistics and documentation; no one knows why.
 
 [Click here to open portfolio](https://htmlpreview.github.io/?https://github.com/FreshOats/Portfolio/blob/master/index.html)
 
@@ -11,6 +11,15 @@ email: justin.papreck@gmail.com
 
 
 #### Pinned Repos:
+- Water Quality: I Think I've Been Poisoned...
+  - This application investigates chemical contaminants in California's drinking water, acquiring and cleaning data, then presenting findings using Tableau
+  - This acquires data from csv form as well as pdf formats from different sources
+  - It takes into consideration different measurement units, chemical naming conventions, and regulation differences between governmental sources
+  - Presents the data regarding high contamination using Tableau to present maps and graphs, while filtering for the past 5 and 75 years
+
+![water_quality1](https://github.com/FreshOats/FreshOats/assets/33167541/1cf8af9a-09ca-4ed2-9117-680f7022443a)
+
+
 - NFL Injury Analytics
   - This application utilizes supervised and unsupervised machine learning, deep learning, and feature analysis to find patterns in NFL injuries
   - Random Forests provided a high-accuracy, high precision model on a very imbalanced dataset, whereas Neural Networks produced a high-accuracy, high-recall model 
@@ -44,17 +53,12 @@ email: justin.papreck@gmail.com
   
   ![ETL_thumbnail](https://user-images.githubusercontent.com/33167541/194174539-f4d1fc6b-1594-4d24-9c80-c147df0eec10.png)
 
-  
-- Mapping_Earthquakes: Mapping Earthquakes from Last Week
-  - This application produces an interactive map using Leaflet and GeoJSON Data to analyze earthquakes within the past 7 days
-  
-  ![Mapping_thumbnail](https://user-images.githubusercontent.com/33167541/194174560-30176704-6589-477f-b527-e076d931d942.png)
-
  <br><br><br>
 
 
 
 **Fun fact since the last time I updated this:** <br>
-The last two months to be added to the Gregorian Calendar were January and February, so our months are now mostly named after Roman gods and bad mathematics. January (named after Janus) and February (from *februa* - cleansing) were basically a dead period so the Romans didn't start the calendar until March (named after Mars). April is thought to stem from the Latin *aperio* (to open) as a reference to opening of buds in the spring. The other months all used to be numbered, but were changed with the Julian calendar to include May (Maia), June (Juno), July (named after Julius Caesar), August (after Augustus Caesar), and then due to the 2 month shift, our 9th-12th months, September (7th), October (8th), November (9th) and December (10th). 
+An ingredient list for a murder-mystery dinner party?<br> 
+Eggplant<br>Tomatoes<br>Potatoes<br>Cayenne Pepper<br>Goji Berries<br>Bell Peppers<br>Paprika<br>Tobacco<br>Deadly Nightshade aka Belladonna<br><br>
 
-The Slavic Calendar names, still used in several countries including Ukraine, is still not outdated though it is older than the Julian/Gregorian calendar. Most of the names sound similar across the Slavic languages, but since I know the Ukrainian ones, I'll just include those: сiчень - the felling (possibly for cutting trees for firewood), лютий - a furious and cruel month, березень - birch (leaves start growing), квiтень - flowers (start blooming), травень - grass (is fully green), червень - red (like fruid, or from the insect черв used to produce red dye), липень - linden (blooms everywhere mid-summer), серпень - scythe/sickle (it's harvest time!), вересень - Heather (a lovely purple flower that blooms in autumn), жовтень - yellow (the turning of the leaves), листопад - falling leaves, грудень - lump (the hardening of soil as it freezes or small lumps of snow).  
+Perhaps. They are also all members of the nightshade family, sharing the characteristic that they all contain alakaloids. Peppers, tomatoes, eggplants, and goji berries are all nightshade fruits (they developed from a flower and contain seeds), while potatoes are a nightshade vegetable. Tomatoes contain more alkaloids in the vine and leaves than the fruit itself, which is why some people have a reaction when their skin makes contact with the vines. What makes Deadly Nightshade do deadly? It has a very high concentration of these alkaloids in all parts of the plant. The other members have a much lower concentration, making them not only safe, but in some cases even helpful.   
