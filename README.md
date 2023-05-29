@@ -11,7 +11,7 @@ email: justin.papreck@gmail.com
 
 
 #### Pinned Repos:
-- Water Quality: I Think I've Been Poisoned...
+- I Think I've Been Poisoned...   An Analysis of Water Quality in California
   - This application investigates chemical contaminants in California's drinking water, acquiring and cleaning data, then presenting findings using Tableau
   - This acquires data from csv form as well as pdf formats from different sources
   - It takes into consideration different measurement units, chemical naming conventions, and regulation differences between governmental sources
