@@ -19,6 +19,10 @@ email: justin.papreck@gmail.com
 
   ![water_quality1](https://github.com/FreshOats/FreshOats/assets/33167541/a73cf04f-ac4d-48d3-919d-1f11423f66b1)
 
+- Marketing_Analysis - Ad Campaign A/B Test and Analysis
+  - Performs A/B Testing on an online marketing ad campaign using Z-Test to determine whether there is a significant increase in conversion rate
+ 
+  ![Square_Image_Thumbnail_sm](https://github.com/FreshOats/FreshOats/assets/33167541/2769e0a9-162c-447f-9c76-2b480cdb75fd)
 
 - NFL Injury Analytics
   - This application utilizes supervised and unsupervised machine learning, deep learning, and feature analysis to find patterns in NFL injuries
@@ -40,14 +44,7 @@ email: justin.papreck@gmail.com
   
   ![Crypto_Thumbnail](https://user-images.githubusercontent.com/33167541/194174496-e4879fe0-59eb-4a0d-a715-ecdcdc3a48c8.png)
 
-  
-- Marketing_Analysis - Ad Campaign A/B Test and Analysis
-  - Performs A/B Testing on an online marketing ad campaign using Z-Test to determine whether there is a significant increase in conversion rate
- 
-  ![Square_Image_Thumbnail_sm](https://github.com/FreshOats/FreshOats/assets/33167541/2769e0a9-162c-447f-9c76-2b480cdb75fd)
-
-
-  
+    
 - Movies-ETL: Extract, Transform, Load, Action! 
   - This application cleans data acquired from Wikipedia and Kaggle to create a clean dataset for a Hack-a-thon
   
