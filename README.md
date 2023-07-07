@@ -41,11 +41,11 @@ email: justin.papreck@gmail.com
   ![Crypto_Thumbnail](https://user-images.githubusercontent.com/33167541/194174496-e4879fe0-59eb-4a0d-a715-ecdcdc3a48c8.png)
 
   
-- Amazon_Vine_Analysis: Analyzing Bias in Amazon Vine Reviews
-  - Utilizing AWS to analyze big data to determine whether there is a bias toward paid or unpaid reviewers, in this case with Amazon's pet products   
-  - These data did not support a bias between the paid and unpaid reviewers for pet products
-  
-  ![Vine_Review_Analysis_Thumbnail](https://user-images.githubusercontent.com/33167541/194174513-6f028e16-a5a9-4dbf-b2f9-ecbd70c2a22c.png)
+- Marketing_Analysis - Ad Campaign A/B Test and Analysis
+  - Performs A/B Testing on an online marketing ad campaign using Z-Test to determine whether there is a significant increase in conversion rate
+ 
+  ![Square_Image_Thumbnail_sm](https://github.com/FreshOats/FreshOats/assets/33167541/2769e0a9-162c-447f-9c76-2b480cdb75fd)
+
 
   
 - Movies-ETL: Extract, Transform, Load, Action! 
